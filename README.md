@@ -1,2 +1,2 @@
 # odin-recipes
-This is the basic buildings of a website with html and the use of GIT. After the html site is set-up we will be styling with CSS. Excited to keep learning.
+This is the basic buildings of a website with html and the use of GIT. After the html site is set-up we will be styling with CSS. Excited to keep learning. I would also like to say how much I enjoy being able to switch back to earlier lessons when I forget things. This is a very well layed out program. 
